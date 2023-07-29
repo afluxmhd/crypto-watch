@@ -1,4 +1,4 @@
-# Crypto_watch
+# CryptoWatch
 
 A cryptocurrency app that shows the latest prices of various cryptocurrencies. This app is designed for individuals who are interested in keeping track of the current value of their cryptocurrency investments.
 
