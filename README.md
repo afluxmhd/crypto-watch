@@ -7,8 +7,15 @@ With this app, users can view the real-time prices of popular cryptocurrencies s
 The app has a clean and user-friendly interface, making it easy for users to quickly check the latest prices and track their portfolio. Additionally, users can set alerts for specific cryptocurrencies to be notified when the price reaches a certain threshold.
 
 
-<img width="346" alt="Screenshot 2022-03-29 at 12 23 28 AM" src="https://user-images.githubusercontent.com/93920274/228806866-86cf7347-45b5-4379-a17b-61ee711e274b.png">
+<p align="center">
+  <img src="https://github.com/afluxmhd/crypto-watch/assets/93920274/ab951d44-527c-4357-908e-9d9588a94227" width="24%" />
+  <img src="https://github.com/afluxmhd/crypto-watch/assets/93920274/1ca46d20-ff82-4cf2-961a-7540a604f343" width="24%" />
+  <img src="https://github.com/afluxmhd/crypto-watch/assets/93920274/7f842f3a-dcff-414b-89a6-6e89de1b57e6" width="24%" />
+ <img src="https://github.com/afluxmhd/crypto-watch/assets/93920274/be461d96-143e-4863-b688-f85feab9fd99" width="24%" />
+</p>
 
-<img width="345" alt="Screenshot 2022-03-29 at 12 22 58 AM" src="https://user-images.githubusercontent.com/93920274/228806885-16778d4a-918a-4f7d-a9a8-0cc5b90685d7.png">
 
-<img width="345" alt="Screenshot 2022-03-29 at 12 22 58 AM" src="https://user-images.githubusercontent.com/93920274/228806890-d73e1cc6-2489-4e81-abbe-074205ada6e5.png">
+
+
+
+
