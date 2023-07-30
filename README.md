@@ -6,6 +6,14 @@ With this app, users can view the real-time prices of popular cryptocurrencies s
 
 The app has a clean and user-friendly interface, making it easy for users to quickly check the latest prices and track their portfolio. Additionally, users can set alerts for specific cryptocurrencies to be notified when the price reaches a certain threshold.
 
+## Features
+
+- **Real-Time Price Data:** Get up-to-date prices for popular cryptocurrencies like Bitcoin, Ethereum, and Litecoin.
+- **Portfolio Tracking:** Add and remove cryptocurrencies to create a personalized portfolio for easy monitoring.
+- **User-Friendly Interface:** The app offers a clean and intuitive interface, making it effortless to check prices and manage your investments.
+
+
+## Screenshots
 
 <p align="center">
   <img src="https://github.com/afluxmhd/crypto-watch/assets/93920274/ab951d44-527c-4357-908e-9d9588a94227" width="24%" />
@@ -15,6 +23,55 @@ The app has a clean and user-friendly interface, making it easy for users to qui
 </p>
 
 
+## Getting Started
+
+### Prerequisites
+
+To run the CryptoWatch app, you'll need:
+
+- Flutter SDK installed on your development environment.
+- An API key from coinapi.com (follow the API Key Setup instructions above).
+
+### Installation
+
+1. Clone this repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/your-username/CryptoWatch.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd CryptoWatch
+```
+
+3. Install the required dependencies:
+
+```
+flutter pub get
+```
+
+4. Open the project in your preferred Flutter IDE or editor.
+5. Add your API key to the app_constants.dart file as described in the API Key Setup section below
+6. Run the app on your connected device or emulator:
+   
+```
+flutter run
+```
+
+## API Key Setup
+
+To use the CryptoWatch app, you'll need to obtain an API key from coinapi.com. Follow the instructions below to add your API key to the app:
+
+1. Visit [coinapi.com](https://coinapi.com) and sign up for an account (if you haven't already).
+2. After signing in, navigate to your account settings to find your API key.
+3. In the app's codebase, locate the `app_constants.dart` file inside the `lib/utils` folder.
+4. Open the `app_constants.dart` file and find the following line:
+
+```dart
+static const String API_KEY = 'YOUR_API_KEY';
+```
 
 
 
