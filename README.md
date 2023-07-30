@@ -64,7 +64,7 @@ flutter run
 
 To use the CryptoWatch app, you'll need to obtain an API key from coinapi.com. Follow the instructions below to add your API key to the app:
 
-1. Visit [coinapi.com](https://coinapi.com) and sign up for an account (if you haven't already).
+1. Visit [coinapi.io](https://coinapi.io) and sign up for an account (if you haven't already).
 2. After signing in, navigate to your account settings to find your API key.
 3. In the app's codebase, locate the `app_constants.dart` file inside the `lib/utils` folder.
 4. Open the `app_constants.dart` file and find the following line:
