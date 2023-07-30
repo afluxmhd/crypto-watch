@@ -37,7 +37,7 @@ To run the CryptoWatch app, you'll need:
 1. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/CryptoWatch.git
+git clone https://github.com/afluxmhd/crypto-watch.git
 ```
 
 2. Navigate to the project directory:
