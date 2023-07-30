@@ -1,5 +1,5 @@
 #api key
-lib/utils/app_key.dart
+lib/utils/app_keys.dart
 
 # Miscellaneous
 *.class
