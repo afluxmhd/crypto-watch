@@ -1,3 +1,6 @@
+#api key
+lib/utils/app_key.dart
+
 # Miscellaneous
 *.class
 *.log
